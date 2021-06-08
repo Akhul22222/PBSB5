@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'ℙ𝕒𝕣𝕜 𝕄𝕠𝕧𝕚𝕖𝕤', url="https://t.me/parkboyschat"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'ℙ𝕒𝕣𝕜 𝕄𝕠𝕧𝕚𝕖𝕤', url="https://t.me/parkboyschat"
                                 )
                         ]
                     ]
